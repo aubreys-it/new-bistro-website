@@ -112,6 +112,7 @@
 #et-boc .area-outer-wrap[data-da-type=flyin].full-height[data-da-size=auto] .da-close-wrap,
 #et-boc .area-outer-wrap[data-da-type=popup].full-height[data-da-size=auto] .da-close-wrap {
     height: calc(100% - 20px) !important
+    /*height: 100% !important*/
 }
 
 #et-boc .area-outer-wrap[data-da-type=flyin].full-height:not([data-da-size=auto]) .da-close-wrap,
