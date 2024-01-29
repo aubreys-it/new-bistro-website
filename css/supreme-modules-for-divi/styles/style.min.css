@@ -6414,7 +6414,7 @@ screen and (max-width:800px) and (orientation:landscape) {
     display: inline-block;
     font-family: inherit;
     cursor: pointer;
-    color: #2ea3f2
+    color: #2ea3f2;
 }
 
 .dsm_caldera_forms .et_pb_button:hover {
